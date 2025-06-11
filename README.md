@@ -22,8 +22,6 @@ A simple Linear Regression model was trained. The data was split into training a
 
 There was a clear positive linear trend: as house size increases, so does the predicted price. This confirms that the model is correctly capturing the underlying pattern.
 
-![Image](attachment:8fb95f0f-3e62-48ed-b2bb-59929c87268b:download.png)
-
 6. **Feature Impact Analysis**
 
 Since this model used only one feature (HouseSize), its impact was directly visible and easy to interpret. The model’s coefficient highlighted the price added per square foot.
@@ -31,8 +29,6 @@ Since this model used only one feature (HouseSize), its impact was directly visi
 7. **Visualization Insights**
 
 The notebook uses a **scatter plot** to show the actual data and a **regression line** to indicate predictions. This helped visually confirm model performance.
-
-![download.png](attachment:03b2657f-8c50-4011-8542-781354319a17:download.png)
 
 8. **Real-World Application Use-Cases**
 
