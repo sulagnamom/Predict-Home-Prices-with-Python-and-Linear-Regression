@@ -22,7 +22,7 @@ A simple Linear Regression model was trained. The data was split into training a
 
 There was a clear positive linear trend: as house size increases, so does the predicted price. This confirms that the model is correctly capturing the underlying pattern.
 
-![download.png](attachment:8fb95f0f-3e62-48ed-b2bb-59929c87268b:download.png)
+![Image](attachment:8fb95f0f-3e62-48ed-b2bb-59929c87268b:download.png)
 
 6. **Feature Impact Analysis**
 
